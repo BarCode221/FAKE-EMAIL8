@@ -7,8 +7,12 @@
 #####
 **`pkg install git`**
 #####
-**`pip install requirement.txt`**
+**`git clone https://github.com/BarCode221/FAKE-EMAIL8`**
 
 # RUN PROGRAM
+#####
+**`cd FAKE-EMAIL8`**
+#####
+**`pip install requirement.txt`**
 #####
 **`python Run.py`**
