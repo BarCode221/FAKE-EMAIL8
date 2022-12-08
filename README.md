@@ -1,4 +1,5 @@
 # FAKE-EMAIL8
+![contoh](example.png)
 ## Comand Program
 #####
 **`pkg update & pkg upgrade`**
