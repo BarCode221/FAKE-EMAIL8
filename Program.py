@@ -1,9 +1,6 @@
 from httpx import get, post
-from randomuser import RandomUser
 from banner import *
 import json
-from rich.console import Console
-from rich.table import Table
 
 def Domain():
     resp = get("https://www.1secmail.com/api/v1/?action=getDomainList").json()
