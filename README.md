@@ -14,6 +14,6 @@
 #####
 **`cd FAKE-EMAIL8`**
 #####
-**`pip -r install requirement.txt`**
+**`pip install -r requirement.txt`**
 #####
 **`python Run.py`**
